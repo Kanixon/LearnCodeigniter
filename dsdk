@@ -1,0 +1,41 @@
+[33mcommit bab07c0d68b89f1ecb7e8c94e194e9bd5c1f7ba0[m
+Author: Kanixon <yunixon.tanone@gmail.com>
+Date:   Tue Nov 27 03:14:20 2018 +0700
+
+    add save employees Data
+
+[33mcommit 2c50a43b10f3818bb942eeb126386f071fd0adcf[m
+Author: Kanixon <yunixon.tanone@gmail.com>
+Date:   Tue Nov 27 03:05:01 2018 +0700
+
+    add save employees data function
+
+[33mcommit 8ebc19825fdcca24e026f102992b23a2cebe247c[m
+Author: Kanixon <yunixon.tanone@gmail.com>
+Date:   Tue Nov 27 02:43:06 2018 +0700
+
+    add save employees data function
+
+[33mcommit 7fc14953c52ab7681d0bc7defaf70f72df733954[m
+Author: Kanixon <yunixon.tanone@gmail.com>
+Date:   Tue Nov 27 02:34:34 2018 +0700
+
+    Add Database
+
+[33mcommit 8ba59035a1732543cd8d650cc0a77298014dd2f9[m
+Author: Kanixon <yunixon.tanone@gmail.com>
+Date:   Fri Nov 23 23:34:25 2018 +0700
+
+    add pagination
+
+[33mcommit c702d4e53730eaedb213da09bdaeb44fb264bd65[m
+Author: Yunixon Tanone <36759293+Kanixon@users.noreply.github.com>
+Date:   Fri Nov 23 18:20:44 2018 +0700
+
+    Update readme.rst
+
+[33mcommit 2ff63ad1a088e30c6143d14a2f6c025b6d626f68[m
+Author: Kanixon <yunixon.tanone@gmail.com>
+Date:   Fri Nov 23 18:09:53 2018 +0700
+
+    Learn Codeigniter
